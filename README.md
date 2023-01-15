@@ -1,5 +1,5 @@
-Position Summary:
-Sep 2022 – Dec 2022
+**Position Summary: **
+****Sep 2022 – Dec 2022 ****
 Edmonton, Canada
 Software Developer, Zero Rampup Technologies
 •Translate client specifications into clear user stories, high-level software design, and made project sprint planning
