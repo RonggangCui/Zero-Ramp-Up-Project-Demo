@@ -1,4 +1,5 @@
-## Software Developer, Zero Rampup Technologies
+## Software Developer (Part Time)
+### Zero Rampup Technologies
 Sep 2022 – Dec 2022 <br>
 Edmonton, Canada <br>
 Software Developer, Zero Rampup Technologies <br>
