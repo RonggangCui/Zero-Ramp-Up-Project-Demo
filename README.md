@@ -8,3 +8,4 @@ Software Developer, Zero Rampup Technologies <br>
 
 Video Demo: https://drive.google.com/file/d/14qi7i0I6-HiWN3kznLHkSPKvdNeErRxV/view?usp=share_link <br>
 Project Management Details: https://ualberta-cmput401.github.io/dev-in-a-box/project-management/
+User Manual: https://github.com/RonggangCui/ZeroRampupDemo/blob/main/user-manual.pdf
