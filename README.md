@@ -7,5 +7,5 @@ Software Developer, Zero Rampup Technologies <br>
 •Developed using React, NestJS, and PostgreSQL <br>
 
 Video Demo: https://drive.google.com/file/d/14qi7i0I6-HiWN3kznLHkSPKvdNeErRxV/view?usp=share_link <br>
-Project Management Details: https://ualberta-cmput401.github.io/dev-in-a-box/project-management/
+Project Management Details: https://ualberta-cmput401.github.io/dev-in-a-box/project-management/ <br>
 User Manual: https://github.com/RonggangCui/ZeroRampupDemo/blob/main/user-manual.pdf
