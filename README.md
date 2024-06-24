@@ -9,6 +9,6 @@ more dynamic and responsive user interface <br>
 ● Collaborated in pair programming to tackle complex algorithmic challenges, improving code quality and solution
 efficiency in a team setting <br>
 
-Video Demo: https://drive.google.com/file/d/14qi7i0I6-HiWN3kznLHkSPKvdNeErRxV/view?usp=share_link <br>
+Video Demo: https://drive.google.com/file/d/1ZwNzIJFjr1Yl9pSx0dgllzTr9Q1x-RaK/view?usp=drive_link <br>
 Project Management Details: https://ualberta-cmput401.github.io/dev-in-a-box/project-management/ <br>
 User Manual: https://github.com/RonggangCui/ZeroRampupDemo/blob/main/user-manual.pdf
