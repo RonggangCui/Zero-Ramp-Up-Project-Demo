@@ -5,4 +5,4 @@ Edmonton, Canada <br>
 - Engineered front-end components using React, ensuring optimal integration and performance through Ajax and Axios for a more dynamic and responsive UI <br>
 - Video Demo: https://drive.google.com/file/d/1ZwNzIJFjr1Yl9pSx0dgllzTr9Q1x-RaK/view?usp=drive_link <br>
 - User Manual: https://drive.google.com/file/d/1VObOwJnqQ6cSHyN6ezipa_kaHHSgZrw6/view?usp=sharing <br>
-
+- Product Design and Project Management https://ualberta-cmput401.github.io/dev-in-a-box/
